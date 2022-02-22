@@ -8,7 +8,7 @@ public class Sketch extends PApplet {
    */
   public void settings() {
 	// put your size call here
-    size(400, 400);
+    size(500, 500);
   }
 
   /** 
@@ -24,7 +24,12 @@ public class Sketch extends PApplet {
    */
   public void draw() {
 	  
-	// 
+	// Sun
+    ellipse(460, 50, 150, 150);
+    fill (246, 255, 0);
+
+  // House
+    
   }
   
   // define other methods down here.
