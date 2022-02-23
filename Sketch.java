@@ -29,6 +29,8 @@ public class Sketch extends PApplet {
     fill (246, 255, 0);
 
   // House
+    rect(120, 240, 220, 220);
+    fill(0, 0, 0);
     
   }
   
