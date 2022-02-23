@@ -44,6 +44,14 @@ public class Sketch extends PApplet {
 
   // Grass
     rect(0, 450, 500, 80);
+    fill(216, 227, 148);
+
+  // Pathway
+    rect(200, 450, 70, 80);
+    fill(44, 101, 156);
+
+  // Roof
+    triangle(100, 100, 200, 200, 300, 100);
     fill(246, 255, 0);
 
     
