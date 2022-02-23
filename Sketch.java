@@ -26,11 +26,23 @@ public class Sketch extends PApplet {
 	  
 	// Sun
     ellipse(460, 50, 150, 150);
-    fill (246, 255, 0);
+    fill (0, 0, 0);
 
   // House
     rect(120, 240, 220, 220);
-    fill(0, 0, 0);
+    fill(222, 222, 222);
+
+  // Windows
+    rect(130, 290, 50, 50);
+    fill(222, 222, 222);
+
+    rect(200, 290, 50, 50);
+    fill(222, 222, 222);
+
+    rect(270, 290, 50, 50);
+    fill(246, 255, 0);
+
+    
     
   }
   
