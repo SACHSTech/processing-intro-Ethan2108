@@ -40,6 +40,10 @@ public class Sketch extends PApplet {
     fill(222, 222, 222);
 
     rect(270, 290, 50, 50);
+    fill(8, 242, 0);
+
+  // Grass
+    rect(0, 450, 500, 80);
     fill(246, 255, 0);
 
     
